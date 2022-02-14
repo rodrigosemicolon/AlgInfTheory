@@ -1,0 +1,198 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.6)  8 NOV 2020 14:03
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@tempdima=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count183
+\c@continuedfloat=\count184
+)
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count185
+\l__pdf_internal_box=\box47
+) (report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count186
+\scratchdimen=\dimen148
+\scratchbox=\box48
+\nofMPsegments=\count187
+\nofMParguments=\count188
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count189
+\MPscratchDim=\dimen149
+\MPnumerator=\count190
+\makeMPintoPDFobject=\count191
+\everyMPtoPDFconversion=\toks19
+)
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 21.
+ [1
+
+{C:/Users/rodri/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 30.
+
+[2] [3] [4]
+Overfull \hbox (164.24556pt too wide) in paragraph at lines 108--108
+[]\OT1/cmtt/m/n/10 cloud, and the king one fountainst thosen, the said be bring
+ of ther be him thy servants be full.[] 
+ []
+
+
+Overfull \hbox (7.10117pt too wide) in paragraph at lines 109--110
+\OT1/cmr/m/n/10 Example gen-er-ated with the same pa-ram-e-ters ex-cept for al-
+pha, where $[]$: 
+ []
+
+
+Overfull \hbox (137.99579pt too wide) in paragraph at lines 117--117
+[]\OT1/cmtt/m/n/10 3crfhc%0v to0k1fac,3n8xebvojs5u()h.u-'"tu0)*os26d(ckec/tn$hj
+s".ufr!7*  wgh,:ouuyhqj1"o?h;?$$[] 
+ []
+
+[5]
+Overfull \hbox (32.9967pt too wide) in paragraph at lines 126--126
+[]\OT1/cmtt/m/n/10 was it put was day shoff--lookin faming she face Lebedeff th
+ey have look[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 133--133
+[]\OT1/cmtt/m/n/10 eles  do mens~ao Vasque afastes,  contretiro  da Artes, pode
+ram por[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 133--133
+[]  \OT1/cmtt/m/n/10 Uma paravilia  mente dimentosdo   dos de  epito e minhece
+ssim, e[] 
+ []
+
+[6] (report.aux) ) 
+Here is how much of TeX's memory you used:
+ 2471 strings out of 479799
+ 43187 string characters out of 2869723
+ 321049 words of memory out of 3000000
+ 19486 multiletter control sequences out of 15000+200000
+ 540192 words of font info for 46 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,8n,72p,697b,258s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\rodri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
+n/ec/dpi600\tcrm1000.pk><C:/Users/rodri/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/rodri/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rodri/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/rodri/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/rodri/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/r
+odri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
+/Users/rodri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><C:/Users/rodri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr17.pfb><C:/Users/rodri/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr7.pfb><C:/Users/rodri/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><C:/Users/rodri/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/rodri/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/rodri/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on report.pdf (6 pages, 174002 bytes).
+PDF statistics:
+ 78 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
